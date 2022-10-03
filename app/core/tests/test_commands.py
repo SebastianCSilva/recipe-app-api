@@ -1,5 +1,5 @@
 """
-Prueba de el comando personalizado 
+Prueba de el comando personalizado
 """
 from unittest.mock import patch
 
